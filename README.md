@@ -1,8 +1,20 @@
-### Hi 👋 I'm Sanjeevani.
+### 🔎 Hi 👋🏿 I'm Sanjeevani👩‍💻
+
+<img src="https://raw.githubusercontent.com/Sanjeevani15/Sanjeevani15/master/banner.png" alt="welcome">
+
+<h3 align="center">Nice to meet ya</h3>
+<p align="center"><b>Visitor count</b></br>
+  <img src="https://profile-counter.glitch.me/Sanjeevani15/count.svg" /></p>
+</p>
+
+
+
+
+
 
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg) -->
-![Visitor Count](https://profile-counter.glitch.me/Sanjeevani15/count.svg)
+
 
 
 
