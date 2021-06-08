@@ -1,6 +1,6 @@
 # 🔎 Hi 👋🏿 I'm Sanjeevani👩‍💻
 
-<img src="https://raw.githubusercontent.com/Sanjeevani15/Sanjeevani15/master/rough.jpg" alt="welcome">
+<img src="https://raw.githubusercontent.com/Sanjeevani15/Sanjeevani15/master/banner_final.png" alt="welcome">
 
 <h3 align="center">Nice to meet ya</h3>
 <p align="center"><b>Visitor count</b></br>
