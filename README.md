@@ -10,7 +10,7 @@
 
 
 ## Find me around the web 🌎: 
-<a href="https://github.com/Sanjeevani15"><img align="left" width="150" height="150"  src="https://raw.githubusercontent.com/Sanjeevani15/Sanjeevani15/master/1616.png"></a>
+<a href="https://github.com/Sanjeevani15"><img align="left" width="150" height="150"  src="https://raw.githubusercontent.com/Sanjeevani15/Sanjeevani15/master/find_me.png"></a>
   
 - <a href="https://www.linkedin.com/in/sanjeevani-bhandari/">LinkedIn</a> 💼
 - <a href="https://www.instagram.com/sanjeevani_bhandari/">Instagram</a> 💼
