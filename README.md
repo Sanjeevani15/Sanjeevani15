@@ -7,7 +7,7 @@
   <img src="https://profile-counter.glitch.me/Sanjeevani15/count.svg" /></p>
 </p>
 
-<p align="center">At least we are ~under the same sky~ learning the same algorithms.<p> 
+<p align="center">At least we are ̷ u̷n̷d̷e̷r̷ ̷t̷h̷e̷ ̷s̷a̷m̷e̷ ̷s̷k̷y̷    learning the same algorithms.<p> 
 
   ## �🤨 About me 
 
