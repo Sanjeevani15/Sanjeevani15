@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning:         *many things* XD
 - 📫 How to reach me:  sanjeevanibhandari3@gmail.com
-- ⚡ Fun fact:   *~I write poems and play TT ~* 
+- ⚡ Fun fact:   ~*I write poems smtm & also play TT*~ 
 
 
 ## Find me around the web 🌎: 
