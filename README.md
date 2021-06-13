@@ -7,7 +7,10 @@
   <img src="https://profile-counter.glitch.me/Sanjeevani15/count.svg" /></p>
 </p>
 
-<p align="center">At least we are ̷ u̷n̷d̷e̷r̷ ̷t̷h̷e̷ ̷s̷a̷m̷e̷ ̷s̷k̷y̷    learning the same algorithms.<p> 
+<p align="center"> 
+     𝐀𝐭 𝐥𝐞𝐚𝐬𝐭 𝐰𝐞 𝐚𝐫𝐞 &nbsp ̷u̷n̷d̷e̷r̷ ̷t̷h̷e̷ ̷s̷a̷m̷e̷ ̷s̷k̷y̷   &nbsp 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐭𝐡𝐞 𝐬𝐚𝐦𝐞 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬
+
+  <p> 
 
   ## �🤨 About me 
 
