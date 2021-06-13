@@ -7,15 +7,16 @@
   <img src="https://profile-counter.glitch.me/Sanjeevani15/count.svg" /></p>
 </p>
 
-<p align="center">At least we are ~*under the same sky*~ learning the same algorithms.<p>
+<p align="center">At least we are ~under the same sky~ learning the same algorithms.<p> 
 
-## �🤨 About me 
+  ## �🤨 About me 
 
 *I'm a quick learner who is willing to work across different domains and explore new technologies. I love the concept of open-source, creating software, and building a community.*
 
 - 🌱 I’m currently learning:         *many things* XD
 - 📫 How to reach me:  sanjeevanibhandari3@gmail.com
-- ⚡ Fun fact:   *I write poem smtm & also play TT* 
+- ⚡ Fun fact:   *I write poem smtm & also play TT*
+  
 
 
 ## Find me around the web 🌎: 
