@@ -8,7 +8,7 @@
 </p>
 
 
-## About me
+## �🤨 About me 
 
 *I'm a quick learner who is willing to work across different domains and explore new technologies. I love the concept of open-source, creating software, and building a community.*
 
