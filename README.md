@@ -16,7 +16,7 @@
 
 
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/sanjeevani-bhandari/)&nbsp;&nbsp;
-[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/gmail.png"/>](sanjeevanibhandari3@gmail.com)&nbsp;&nbsp;
+[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/gmail.png"/>](mailto:sanjeevanibhandari3@gmail.com)&nbsp;&nbsp;
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/pennydumb_adore)&nbsp;&nbsp;
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>](https://www.instagram.com/sanjeevani_bhandari/)&nbsp;&nbsp;
 <!-- [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/quora.png"/>](https://www.quora.com/profile/Sanjeevani-20)&nbsp;&nbsp; -->
