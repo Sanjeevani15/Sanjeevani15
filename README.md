@@ -35,7 +35,9 @@
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/gmail.png"/>](https://mail.google.com/mail/?view=cm&fs=1&to=sanjeevanibhandari3@gmail.com)&nbsp;&nbsp; <br>
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/pennydumb_adore)&nbsp;&nbsp;
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>](https://www.instagram.com/sanjeevani_bhandari/)&nbsp;&nbsp;
-[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/medium.png"/>]( https://medium.com/@sanjeevanibhandari3)&nbsp;&nbsp; 
+[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/unsplash.png"/>](https://unsplash.com/@sanjeevani15)&nbsp;
+[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/medium.png"/>]( https://medium.com/@sanjeevanibhandari3)&nbsp; 
+
 <!-- [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/quora.png"/>](https://www.quora.com/profile/Sanjeevani-20)&nbsp;&nbsp; -->
 
 
