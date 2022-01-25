@@ -4,7 +4,7 @@
 
 <h3 align="center">Nice to meet ya</h3>
 <p align="center"><b>Visitor count</b></br>
-  <img src="https://profile-counter.glitch.me/niksw7/count.svg" /></p>
+  <img src="https://profile-counter.glitch.me/Sanjeevani15/count.svg" /></p>
 </p>
 
 <p align="center"> 
